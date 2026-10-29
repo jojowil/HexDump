@@ -14,3 +14,4 @@ This is done in Java, C, and Python, so far, to demonstrate languages to my stud
 
 Everything in this design is Java 25, C23, and Python 3.11 compatible.
 
+[General write-up of the implementation is here.](https://programmingby.design/algorithms/the-hex-dump/)
