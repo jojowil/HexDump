@@ -35,7 +35,7 @@ void hexDump(const unsigned char bytes[], long length) {
 
 int main(void)  {
     FILE *fp;
-    const char *fname = "/uploads/mult.prg";
+    const char *fname = "data/mult.prg";
     unsigned char *file;
 
     // open file
