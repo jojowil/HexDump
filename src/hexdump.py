@@ -25,7 +25,7 @@ def hexdump(byte_data):
 
 if __name__ == "__main__":
     # main function
-    file_name = "data/mult.prg"
+    file_name = "../data/mult.prg"
     try:
         # with closes file when completed.
         with open(file_name, 'rb') as file:
